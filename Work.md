@@ -16,14 +16,15 @@
 * 找到会话微件后将其拖放到桌面。
 * 完成桌面添加小部件。
 > 补充内容
-* 为了兼容国内不同手机之间差异，会话微件有自己的独特之处，会话微件的小部件有三类，分别用 A、B、C 前缀命名的小部件。
-* B类是为了兼容 ColorOS(OPPO) 系统，因为该系统一个小部件不能重复添加，所以我添加了许多一样的B类小部件，这样解决了问题。
-* C类是为了兼容部分华为手机，这部分华为手机小部件不能调整大小，所以预设了各种尺寸的小部件，根据需要使用。
-<div align="center">
-<img src="static/img_appwidget_type_a.jpg" width="30%"/>
-<img src="static/img_appwidget_type_b.jpg" width="30%"/>
-<img src="static/img_appwidget_type_c.jpg" width="30%"/>
-</div>
+> * 为了兼容国内不同手机之间差异，会话微件有自己的独特之处，会话微件的小部件有三类，分别用 A、B、C 前缀命名的小部件。
+> * B类是为了兼容 ColorOS(OPPO) 系统，因为该系统一个小部件不能重复>添加，所以我添加了许多一样的B类小部件，这样解决了问题。
+> * C类是为了兼容部分华为手机，这部分华为手机小部件不能调整大小，所以
+> 预设了各种尺寸的小部件，根据需要使用。
+> <div align="right">
+> <img src="static/img_appwidget_type_a.jpg" width="30%"/>
+> <img src="static/img_appwidget_type_b.jpg" width="30%"/>
+> <img src="static/img_appwidget_type_c.jpg" width="30%"/>
+> </div>
 
 ### 如何调整小部件的大小
 * 如何给小部件配置功能？
