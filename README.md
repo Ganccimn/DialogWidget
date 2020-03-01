@@ -1,8 +1,8 @@
-<img src="static/index.jpg" width="100%"/>
+<img src="static/img_index.jpg" width="100%"/>
 <h1 align="center">会话微件 - 实用桌面小部件集合</h1>
 
 ## 简介
-**会话微件**是一款桌面小部件集合 APP，实用和美化兼顾，在日常生活中它总能为你提供快捷有效的帮助,例如查看天气、倒计时、查询物流、待办清单、RSS 等等。
+[会话微件](https://www.coolapk.com/apk/com.example.raccoon.dialogwidget)是一款桌面小部件集合 APP，实用和美化兼顾，在日常生活中它总能为你提供快捷有效的帮助,例如查看天气、倒计时、查询物流、待办清单、RSS 等等。
 
 ## 传送门
 ### [使用教程👈](Work.md)
@@ -16,6 +16,9 @@
 ### [截图分享👈](Shard.md)
 * 收集一些我认为好看的会话微件截图
 * 截图来自酷安用户
+
+### [常见问题](Q&A.md)
+* 这里可以解决你遇到的问题
 
 ### [隐私政策👈](PrivacyPolicy.md)
 
