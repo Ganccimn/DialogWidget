@@ -27,10 +27,9 @@
 > * B类是为了兼容 ColorOS(OPPO) 系统，因为该系统一个小部件不能重复>添加，所以我添加了许多一样的B类小部件，这样解决了问题。
 > * C类是为了兼容部分华为手机，这部分华为手机小部件不能调整大小，所以
 > 预设了各种尺寸的小部件，根据需要使用。
+> * A类则适用除上述提到的手机厂商之外的所有手机，大部分用户适用A类即可。
 > <div align="right">
-> <img src="static/img_appwidget_type_a.jpg" width="30%"/>
-> <img src="static/img_appwidget_type_b.jpg" width="30%"/>
-> <img src="static/img_appwidget_type_c.jpg" width="30%"/>
+> <img src="static/img_appwidget_type.jpg" width="90%"/>
 > </div>
 
 ### 如何调整小部件的大小
