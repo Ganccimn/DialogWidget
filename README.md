@@ -25,6 +25,8 @@
 ### [常见问题](Q&A.md)
 * 这里可以解决你遇到的问题
 
+### [更新日志](Update.md)
+
 ### [隐私政策👈](PrivacyPolicy.md)
 
 ### [用户协议👈](UserAgreement.md)
